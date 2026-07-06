@@ -9,7 +9,7 @@ This repository is a personal knowledge-management vault built around Obsidian-s
   - `10 Notes/` for canonical topic notes
   - `20 Designs/` for design documents
   - `30 Reference/` for reusable reference material
-  - `40 Deadline/` for explicit time-bound deliverables
+  - `40 Deadlines/` for explicit time-bound deliverables
   - `90 Archive/` for processed notes
   - `95 Assets/` for attachments
   - `99 _System/` for system and utility files

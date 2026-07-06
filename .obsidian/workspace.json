@@ -83,7 +83,91 @@
   "right": {
     "id": "ec35f314c1b2e04c",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "6e13d9559f522ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47d9bcabc8f64938",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "temp/Process Inbox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Process Inbox"
+            }
+          },
+          {
+            "id": "b05a8f54381ceb76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "temp/Process Inbox.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Process Inbox"
+            }
+          },
+          {
+            "id": "f30f0d2506c6e881",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f70b1daf725b3a5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8235dad9b821c386",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "temp/Process Inbox.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Process Inbox"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 431.5,
     "collapsed": true
@@ -96,8 +180,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "copilot:Open Copilot Chat": false
+      "bases:Create new base": false
     }
   },
   "active": "4f2af1ac15b34fba",

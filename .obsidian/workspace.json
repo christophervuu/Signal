@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1c7a47812694c4c",
+        "id": "05aa141283790f27",
         "type": "tabs",
         "children": [
           {
-            "id": "a3b2ca3673c004cc",
+            "id": "a979968dc2898f2f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "99 _System/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "temp/Process Inbox.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Process Inbox"
             }
           }
         ]
@@ -81,98 +78,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215.5
   },
   "right": {
     "id": "ec35f314c1b2e04c",
     "type": "split",
-    "children": [
-      {
-        "id": "d85f37bf70858496",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dd6086d26c63275d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "99 _System/Untitled.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
-            }
-          },
-          {
-            "id": "aaf8104c4af35511",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "99 _System/Untitled.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
-            }
-          },
-          {
-            "id": "73a7a255640416cb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "ba8506c66510a7cf",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "f056724d45359918",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "99 _System/Untitled.canvas",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Untitled"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 431.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +96,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "4f2af1ac15b34fba",
   "lastOpenFiles": [
-    "Home.md",
-    "99 _System/Untitled.canvas",
+    "40 Deadline",
     "Untitled.md",
+    "Process Inbox.md",
+    "temp/Process Inbox.md",
+    "test.md",
+    "temp/processinbox.md",
+    "00 Inbox/Terry stinks.md",
+    "99 _System/Untitled.canvas",
+    "temp",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Untitled.base",
+    "Home.md",
     "2026-07-03.md",
     "99 _System",
     "95 Assets",
@@ -197,12 +137,9 @@
     "30 Reference",
     "20 Designs",
     "10 Notes",
-    "00 Inbox",
     "Untitled 1.canvas",
     "Welcome.md",
-    "Untitled.base",
     "Untitled.canvas",
-    "test.md",
     "create a link.md"
   ]
 }
